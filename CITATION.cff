@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite the manuscript and this software release."
+title: "Adolescent school sealant program model (1M/2M Markov cohort simulation)"
+type: software
+version: 1.0.0
+date-released: 2026-09-25
+license: MIT
+repository-code: "https://github.com/<org>/adolescent-sealant-cea"
+# doi: 10.5281/zenodo.XXXXXXX   ← fill in after the first Zenodo release (docs/PUBLISHING.md)
+authors:
+  - family-names: Deb
+    given-names: Pritam
+    affiliation: "Kennesaw State University"
+  # add co-authors in manuscript order
+preferred-citation:
+  type: article
+  title: "Impact and Cost-Effectiveness of Adolescent School Sealant Programs"
+  journal: "Journal of Dental Research"
+  year: 2026
+  authors:
+    - family-names: Deb
+      given-names: Pritam
+    # add co-authors in manuscript order
